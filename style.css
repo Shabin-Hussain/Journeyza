@@ -1,0 +1,150 @@
+.nav_1{
+    height: 770px;
+    width: 100%;
+    background-image: url('./images/nav_bg.png');
+  
+}
+
+.nav_2{
+    height: 650px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.174);
+    
+}
+
+.button_1{
+    width: 100px;
+    height: 35px;
+    background-color: white;
+    border-radius: 17px;
+    
+}
+
+.nav_3{
+    height: 450px;
+    background-color: white;
+}
+
+
+
+ @media(max-width:991px){
+    .nav_4{
+        margin-right: 40px;
+    }
+} 
+
+@media(min-width:992px){
+    .nav_4{
+    margin-left: 40px;
+}
+}
+
+.nav_5{
+    width: 100%;
+    height: 80%;
+    background-color: rgba(128, 128, 128, 0.056);
+}
+
+.Trip{
+    font-size: 15px;
+}
+
+.first-cont{
+    height: 600px;
+}
+
+@media(max-width:992px){
+    .nav_1{
+        height: 1000px;
+        background-image: url("./images/tropical-beach-picjumbo-com.jpeg");
+       
+    }
+
+    .first-cont{
+    height: 800px;
+    
+}
+
+}
+
+.hotel{
+    height: 930px;
+}
+
+@media(max-width:767px){
+    .nav_1{
+        height: 1200px;
+        background-image: url("./images/tropical-beach-picjumbo-com.jpeg");
+       
+    }
+
+    .first-cont{
+    height: 1000px;
+     
+}
+
+
+
+}
+
+.main_div{
+    height: auto;
+     background-color: white
+}
+
+.offers{
+    height: 450px;
+}
+
+
+
+.offer2{
+    height: 320px;
+}
+
+.hotel{
+    height: 930px;
+}
+
+.hotels{
+    height: 250px;
+}
+
+.domestic{
+    height: 450px;
+}
+
+
+
+.mumbai{
+    height: 300px;
+   
+}
+
+.why{
+    height: 600px;
+}
+
+@media(max-width:767px){
+    .hotel{
+        height: 2450px;
+    }
+
+    .domestic{
+    height: 1450px;
+}
+
+  .why{
+    height: 730px;
+}
+
+}
+
+
+
+
+
+
+
+
+
