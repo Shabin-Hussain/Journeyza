@@ -14,7 +14,7 @@
 
 .button_1{
     width: 100px;
-    height: 35px;
+    height: 32px;
     background-color: white;
     border-radius: 17px;
     
@@ -146,6 +146,16 @@
     padding-top: 30px;
 }
 
+}
+
+.support{
+    margin-top: 20px;
+    margin-left: 12px;
+}
+
+.login{
+    margin-top: 12px;
+    margin-left: 12px;
 }
 
 
