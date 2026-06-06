@@ -135,7 +135,15 @@
 }
 
   .why{
-    height: 730px;
+    height: 830px;
+}
+
+.butn_2{
+    padding-top: 50px;
+}
+
+.park, .suryaa, .meridian, .pune, .bangalore, .kolkata, .goa{
+    padding-top: 30px;
 }
 
 }
